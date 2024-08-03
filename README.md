@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmadaLM
-- 👀 I’m interested in cibersecurity and coding
-- 🌱 I’m currently learning pentesting
+- 👀 I’m interested in Cibersecurity and Coding
+- 🌱 I’m currently learning Pentesting
 - 📫 How to reach me: almadalucas36@hotmail.com
 
 <!---
